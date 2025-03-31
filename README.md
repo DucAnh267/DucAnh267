@@ -44,5 +44,9 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ducanh-email" />
   </a>
 </div>
+<div align="left">
+  <h3>Certificate</h3>
+  <img src="svg/icon_web.svg" width="1200" alt="ducanh" />
+</div>
 
 

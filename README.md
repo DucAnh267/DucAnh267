@@ -46,7 +46,7 @@
 </div>
 <div align="left">
   <h3>Certificate</h3>
-  <img src="svg/icon_web.svg" width="1200" alt="ducanh" />
+  <img src="image/my-certificate.png" width="1200" alt="ducanh" />
   <h5><a href="https://www.credly.com/users/d-c-anh-nguy-n.cc6a3454">Verify</a></h5>
 </div>
 
